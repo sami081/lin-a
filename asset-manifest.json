@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2edde148.css",
+    "main.js": "/static/js/main.ee9fd230.js",
+    "static/media/background-hero.png": "/static/media/background-hero.92dc8500254907c46c6b.png",
+    "static/media/CormorantGaramond-Regular.ttf": "/static/media/CormorantGaramond-Regular.1db7dc7c1b5f884f2570.ttf",
+    "static/media/Inter_18pt-Regular.ttf": "/static/media/Inter_18pt-Regular.86c330c66f7333ff6202.ttf",
+    "index.html": "/index.html",
+    "main.2edde148.css.map": "/static/css/main.2edde148.css.map",
+    "main.ee9fd230.js.map": "/static/js/main.ee9fd230.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2edde148.css",
+    "static/js/main.ee9fd230.js"
+  ]
+}
